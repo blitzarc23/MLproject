@@ -1,1 +1,4 @@
 ## My Minor Project 6th Semester
+## This is my minor project for my 6th Semester at Manipal Uuniversity Jaipur 
+## This project focuses on domain generalisation for time-series data i.e. any data recorded over a period of time
+## This project implements a machine learning pipeline to predict student exam scores based on demographic and academic inputs. Built using a modular structure with Flask for deployment, it emphasizes clean data ingestion, transformation, and model prediction workflows. Although currently applied to student data, the architecture is highly adaptable: by adjusting the input features and retraining, it can generalize to any time-series or structured dataset. Its reusable components for data processing, model handling, and deployment ensure scalability across domains like finance, healthcare, or IoT. This makes the project not just a solution, but a flexible framework for future machine learning tasks.
